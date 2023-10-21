@@ -36,3 +36,27 @@
     border: none;
 }
 
+.btn-block{
+    width: 80%;
+}
+
+#zero-row{
+    margin-top: 0.7rem;
+}
+
+.btn-block#zero{
+    width: 91%;
+}
+
+.btn-group{
+    display: flex;
+}
+
+.btn-group-vertical{
+    gap: 0.5235rem;
+    width: 80%;
+}
+
+.btn-group-vertical > *{
+    width: 100%;
+}
